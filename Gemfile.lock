@@ -292,9 +292,6 @@ GEM
       nokogiri (~> 1.8)
     zeitwerk (2.4.2)
 
-PLATFORMS
-  x86_64-darwin-20
-
 DEPENDENCIES
   active_storage_validations (= 0.8.9)
   aws-sdk-s3 (= 1.87.0)
